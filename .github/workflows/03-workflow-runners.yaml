@@ -3,7 +3,7 @@ name: 03 - Workflow Runners
 on: push
 jobs:
   ubuntu-echo:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
     steps:
       - name: show OS
         run: |
