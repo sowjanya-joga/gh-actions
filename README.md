@@ -1,2 +1,2 @@
 # gh-actions
-Practice GitHub Actions
+Practice GitHub Actions workflow trigger file
